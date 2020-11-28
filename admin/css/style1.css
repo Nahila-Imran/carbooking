@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+}
+body{
+    margin: 0;
+    border: 0;
+    font-family: 'century gothic', arial, sans-serif;
+}
+.trans-img {
+    background: url(https://www.mynrma.com.au/-/media/business-motoring/mobile-banner-mobile-phone-use-behind-the-wheel.jpg?h=360&la=en&w=640&hash=9AEB68A6F9E339A588C64197E762D436) no-repeat center;
+    background-size: cover;
+    height: 820px;
+    background-position: left;
+    background-color: rgba(0,0,0,.5);
+}
+.head {
+    width:100%;
+    height: 450px;
+}
+.container {
+    position: absolute;
+    top: 8%;
+    left: 27%;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    font-weight:300;
+}
+.container h1 {
+    font-size: 30px;
+    letter-spacing: 0.0em;
+    padding: 0;
+    margin: 0;
+}
+.container p {
+    margin-top: 10px;
+}
+.contain {
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 12%;
+    margin-left: 7%;
+    width: 420px;
+    height: 550px;
+}
+.contain h5 {
+    display: inline; 
+    background-color: yellowgreen;
+    padding: 8px;
+    border-radius: 25px;
+    margin: 0px;
+    letter-spacing: 0.1em;
+}
+.contain div {
+    margin-top: 35px;
+}
+.contain p {
+    margin-top: 5px;
+}
+.form p{
+    font-size: 10px;
+    color: gray;
+    background-color: #E0E0E0;
+    padding: 7px;
+    text-align: left;
+    margin-bottom: 12px;
+}
+input[type=submit]{
+    width: 100%;
+    padding: 13px;
+    color: black;
+    background-color: yellowgreen;
+    border: none;
+    font-size: 18px;
+    letter-spacing: 0.0.5em;
+}
+input[type=text] {
+    width: 75%;
+    padding: 10px 0;
+    box-sizing: border-box;
+    background-color: transparent;
+    border:0.5px solid #E0E0E0;
+    font-size: 15px;
+    margin-left: 21px;
+}
+#inp1{
+    margin-left: 25px; 
+}
+#inp2{
+    margin-left: 36px; 
+}
+#inp3{
+    margin-left: 40px; 
+}
+.dropdown {
+    width: 80%;
+    box-sizing: none;
+    background-color: transparent;
+    border: none;
+    font-size: 15px;
+    margin-left: 16px;
+    padding: 10px 0;
+    color: grey;
+}
+
